@@ -1,0 +1,1 @@
+# Логи\n*.log\n\n# Артефакты систем сборки\n/build/\n/dist/\n/out/\n\n# Папка node_modules для проектов на Node.js\n/node_modules/\n\n# Папки, созданные IDE\n/.idea/\n/.vscode/\n/.nbproject/\n\n# Заметки разработчика\nnotes.txt\ntodo.md\n*.tmp
